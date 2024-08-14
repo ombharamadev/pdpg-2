@@ -10,5 +10,6 @@ data = [{
     "age":"51"
 }]
 
-for api in data:
-    print(api["name"])
+#for aryan in data:
+#    print(aryan["name"])
+print(data[0]["name"])
